@@ -1,4 +1,4 @@
-# TensorFlow 2for deep learning
+# TensorFlow 2 for Deep Learning
 Completed assignments from the TensorFlow 2 for deep learning specialization by Imperial College London on Coursera
 
 ## Specialization Certificate
